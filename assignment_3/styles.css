@@ -1,0 +1,42 @@
+body{
+    background-color: powderblue;
+}
+h1{
+    color: blue;
+    font-family: verdana;
+    font-size: 300%;
+}
+h2{
+    color: green;
+    font-family: verdana;
+    font-size: 150%;
+}
+h3{
+    color: rgb(155, 121, 59);
+    font-family: verdana;
+    font-size: 150%;
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#p1{
+    color: brown;
+    font-family: courier;
+}
+#p2{
+    color: brown;
+    font-family: courier;
+}
+#hg{
+    color: rgb(45, 184, 27);
+    font-family: courier;
+}
+#insta{
+    color: rgb(187, 31, 104);
+    font-family: courier;
+}
+#snap{
+    color: rgb(172, 153, 51);
+    font-family: courier;
+}
